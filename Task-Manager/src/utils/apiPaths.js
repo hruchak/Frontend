@@ -1,4 +1,4 @@
-export const BASE_URL = "https://inventorymanagementsystem-lcuq.onrender.com";
+export const BASE_URL = "https://backend-bf63.onrender.com";
 
 export const API_PATHS = {
   AUTH: {
